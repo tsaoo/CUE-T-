@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "app": "^0.1.0",
+    "body-parser": "^1.19.2",
+    "boolean": "^3.2.0",
+    "docker": "^1.0.0",
+    "dotenv": "^16.0.0",
+    "etherscan": "^0.2.2",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.2",
+    "node.js": "^0.0.1-security",
+    "package.json": "^2.0.1"
+  },
+  "name": "alphapoint-",
+  "description": "ReadMe.md",
+  "version": "1.0.0",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15",
+    "typescript": "^4.5.5"
+  }
+}
